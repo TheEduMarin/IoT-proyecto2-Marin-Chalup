@@ -1,0 +1,225 @@
+[ESPERANDO] ESP32 (esp1) en puerto 8001...[ESPERANDO] ESP32 (esp2) en puerto 8002...
+
+[CONECTADO] esp1 desde ('192.168.50.122', 49558)
+Recibido de esp1: 0
+[CONECTADO] esp2 desde ('192.168.50.124', 64406)
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1539.63 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1741.06 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1525.43 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1475.34 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1636.54 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1722.97 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1594.64 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1466.37 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1721.51 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1674.23 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1599.42 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1639.46 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1649.93 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1681.05 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1680.2 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1596.74 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1472.0 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1608.88 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1451.5 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1678.87 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1512.51 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1704.74 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1509.59 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1504.74 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1707.34 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1739.22 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1598.82 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1673.63 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1458.96 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1545.53 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1503.66 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1611.55 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1684.85 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1544.38 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1624.66 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1461.0 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1607.36 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1719.72 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1627.27 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1627.25 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1648.18 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1669.28 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1748.36 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1743.21 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1554.32 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1708.23 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1580.43 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1546.74 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1729.73 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1524.45 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1540.54 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1602.8 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1539.68 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1489.59 ms
+Recibido de esp1: 0
+Recibido de esp1: 1
+Recibido de esp2: 1
+latencia: 1615.37 ms
